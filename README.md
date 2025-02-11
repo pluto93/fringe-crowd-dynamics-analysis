@@ -23,3 +23,7 @@ Applied HeatMapWithTime to visualize how density evolves throughout the day.
 ✅ Popular Fringe Zones Highlighted: The model identified peak congestion areas.
 
 ✅ Multi-Sensory Interaction: Users could explore festival crowd patterns through both digital and physical mediums.
+
+## 📂 Dataset Information
+
+The dataset used in this project is from the Fringe Society 2024 dataset (provided to us by TRAVELTECH FOR SCOTLAND), which contains ticket sales and event location data. Due to its large size, it is not included in this repository.
