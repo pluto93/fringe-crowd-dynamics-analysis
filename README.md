@@ -24,7 +24,9 @@ Applied HeatMapWithTime to visualize how density evolves throughout the day.
 
 ✅ Multi-Sensory Interaction: Users could explore festival crowd patterns through both digital and physical mediums.
 
-<img width="486" alt="Screenshot 2025-02-10 at 9 56 37 pm" src="https://github.com/user-attachments/assets/d0f3678b-ae65-409a-a59c-9ec165928ec5" /> ![THTHIS ONE](https://github.com/user-attachments/assets/907cdc6c-0309-4c4f-a28f-1c96ab87658e) 
+<img width="486" alt="Screenshot 2025-02-10 at 9 56 37 pm" src="https://github.com/user-attachments/assets/d0f3678b-ae65-409a-a59c-9ec165928ec5" /> 
+
+![THTHIS ONE](https://github.com/user-attachments/assets/907cdc6c-0309-4c4f-a28f-1c96ab87658e) 
 
 ## 📂 Dataset Information
 
